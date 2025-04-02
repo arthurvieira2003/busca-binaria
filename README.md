@@ -1,3 +1,7 @@
+## Acadêmicos
+
+Arthur Henrique Tscha Vieira e Rafael Rodrigues Ferreira de Andrade
+
 # Busca Binária Recursiva com Cache
 
 Este repositório contém uma implementação em JavaScript de um algoritmo de busca binária recursiva com sistema de cache utilizando hashtable.
